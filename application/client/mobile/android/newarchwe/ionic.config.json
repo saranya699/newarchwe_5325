@@ -1,0 +1,7 @@
+{
+  "name": "newarchwe",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
